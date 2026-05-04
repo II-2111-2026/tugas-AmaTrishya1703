@@ -73,7 +73,8 @@ def q10() -> float:
     """[Numeric] Dalam sebuah populasi, 1% menderita penyakit. Sebuah tes memiliki akurasi
 99% (baik untuk yang sakit maupun sehat). Jika seseorang dites positif, berapa
 probabilitas dia benar-benar sakit?"""
-    return 0.0198
+    return 0.5
+
 def q11() -> float:
     """[Numeric] Jika P(A) = 0,3,P(B|A) = 0,7 dan P(B|Ac) = 0,4, hitung P(B)
 menggunakan Hukum Probabilitas Total."""
