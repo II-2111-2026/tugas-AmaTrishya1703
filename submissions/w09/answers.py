@@ -59,7 +59,7 @@ A) (,)/ () X
 B) (,)/()
 C) () () X
 D) (,)− () X"""
-    return "B"
+    return "A"
 
 def q08() -> float:
     """[Numeric] Jika (X,) = 2, X = 2, = 2, berapakah koefisien korelasinya?"""
@@ -67,7 +67,7 @@ def q08() -> float:
 
 def q09() -> float:
     """[Numeric] Berapakah nilai E jika E[X] = 10 dan E = 20?"""
-    return 200
+    return 30
 
 def q10() -> float:
     """[Numeric] Jika (,) = 1/4 untuk 0 2 dan 0 2, berapakah P(X 1, 1)?"""
